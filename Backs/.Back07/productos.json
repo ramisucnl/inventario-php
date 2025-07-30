@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Electr\u00f3nico 1",
+        "precio": 1100,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 110.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 2",
+        "precio": 1200,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 120.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 3",
+        "precio": 1300,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 130.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 4",
+        "precio": 1400,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 140.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 5",
+        "precio": 1500,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 150.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 6",
+        "precio": 1600,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 160.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 7",
+        "precio": 1700,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 170.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 8",
+        "precio": 1800,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 180.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 9",
+        "precio": 1900,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 190.0
+    },
+    {
+        "nombre": "Electr\u00f3nico 10",
+        "precio": 2000,
+        "categoria": "Electr\u00f3nico",
+        "descuento": 200.0
+    },
+    {
+        "nombre": "Alimento 1",
+        "precio": 15,
+        "categoria": "Alimento",
+        "descuento": 0
+    },
+    {
+        "nombre": "Alimento 2",
+        "precio": 20,
+        "categoria": "Alimento",
+        "descuento": 0
+    },
+    {
+        "nombre": "Alimento 3",
+        "precio": 25,
+        "categoria": "Alimento",
+        "descuento": 0
+    },
+    {
+        "nombre": "Alimento 4",
+        "precio": 30,
+        "categoria": "Alimento",
+        "descuento": 0
+    },
+    {
+        "nombre": "Alimento 5",
+        "precio": 35,
+        "categoria": "Alimento",
+        "descuento": 0
+    },
+    {
+        "nombre": "Ropa 1",
+        "precio": 220,
+        "categoria": "Ropa",
+        "descuento": 11.0
+    },
+    {
+        "nombre": "Ropa 2",
+        "precio": 240,
+        "categoria": "Ropa",
+        "descuento": 12.0
+    },
+    {
+        "nombre": "Ropa 3",
+        "precio": 260,
+        "categoria": "Ropa",
+        "descuento": 13.0
+    },
+    {
+        "nombre": "Ropa 4",
+        "precio": 280,
+        "categoria": "Ropa",
+        "descuento": 14.0
+    },
+    {
+        "nombre": "Ropa 5",
+        "precio": 300,
+        "categoria": "Ropa",
+        "descuento": 15.0
+    }
+]
