@@ -1,0 +1,26 @@
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.sql
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuración local
+.env
+*.ini
+
+# Editor y sistema
+.vscode/
+.idea/
+node_modules/
+
+# WAMP y XAMPP
+*.bak
+*.swp
+*.swo
